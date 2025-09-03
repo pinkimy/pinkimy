@@ -1,7 +1,7 @@
 ## Hi there! I'm Anton 👋
 
-I'm a Python Developer from Dnipro, Ukraine.  
-I enjoy building Telegram bots, backend APIs, and solving algorithmic problems.  
+I'm a **Python & JavaScript Developer** from Dnipro, Ukraine.  
+I enjoy building **Telegram bots, backend APIs, and full-stack applications**.  
 Currently looking for a **remote** or **Dnipro-based** job — full-time or part-time.
 
 ---
@@ -11,9 +11,14 @@ Currently looking for a **remote** or **Dnipro-based** job — full-time or part
 ### 📌 Languages & Frameworks
 
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
 ![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/django-088A08?style=for-the-badge&logo=django&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
 ![Jinja2](https://img.shields.io/badge/jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-264de4?style=for-the-badge&logo=css3&logoColor=white)
@@ -29,12 +34,14 @@ Currently looking for a **remote** or **Dnipro-based** job — full-time or part
 
 ![Postgres](https://img.shields.io/badge/postgres-%2332316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FF6F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
 ### 🧪 Testing
 
 ![PyTest](https://img.shields.io/badge/PyTest-0A0A0A?style=for-the-badge&logo=pytest&logoColor=white)
 ![Unittest](https://img.shields.io/badge/Unittest-blue?style=for-the-badge)
+![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ### 🧰 Tools & Dev
 
@@ -43,6 +50,8 @@ Currently looking for a **remote** or **Dnipro-based** job — full-time or part
 ![VSCode](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=white)
 ![CMD](https://img.shields.io/badge/Terminal-CMD-black?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -50,23 +59,21 @@ Currently looking for a **remote** or **Dnipro-based** job — full-time or part
 
 **Ukrainian State University of Science and Technologies**  
 🎓 **BSc. in Computer Science** (2018–2022)  
-– Built a Telegram bot using Python to implement Klimov's personality type test.
+– Built a Telegram bot using Python to implement Klimov's personality type test.  
 
 🎓 **MSc. in Computer Science** (2022–2024)  
-– Researched algorithm complexity, implemented 14 different algorithms for evaluation.
+– Researched algorithm complexity, implemented 14 different algorithms for evaluation.  
 
 ---
 
 ## 🌍 Languages
 
-- 🇺🇦 Ukrainian — Native
-- 🇷🇺 Russian — Fluent
-- 🇬🇧 English — B1 (basic communication, technical reading)
+- 🇺🇦 Ukrainian — Native  
+- 🇷🇺 Russian — Fluent  
+- 🇬🇧 English — B1 (basic communication, technical reading)  
 
 ---
 
 ## 📫 Location
 
 📍 Dnipro, Ukraine
-
----
