@@ -18,6 +18,7 @@ Currently looking for a **remote** or **Dnipro-based** job — full-time or part
 ![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/django-088A08?style=for-the-badge&logo=django&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ![Jinja2](https://img.shields.io/badge/jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
